@@ -1,8 +1,11 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.0/.Modules/settings.schema.json",
+  "$schema": "https://raw.githubusercontent.com/aholstrup1/AL-Go/aholstrup1-fix-workspace-flat-vsix-layout/Actions/.Modules/settings.schema.json",
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
+  "templateUrl": "https://github.com/aholstrup1/AL-Go@aholstrup1-fix-workspace-flat-vsix-layout",
   "doNotPublishApps": true,
-  "workspaceCompilation": { "enabled": true },
-  "vsixFile": "https://github.com/Aholstrup1-PersonalOrg/vsix-test/releases/download/vsix-test-v1/al-18.0.0-marketplace.vsix"
+  "workspaceCompilation": {
+    "enabled": true
+  },
+  "vsixFile": "https://github.com/Aholstrup1-PersonalOrg/vsix-test/releases/download/vsix-test-v1/al-18.0.0-marketplace.vsix",
+  "templateSha": "9025b8cbe92d4172c4b2e20dea92465283980c76"
 }
