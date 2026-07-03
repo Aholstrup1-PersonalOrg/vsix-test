@@ -1,7 +1,10 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.0/.Modules/settings.schema.json",
+  "$schema": "https://raw.githubusercontent\r\n.com/microsoft/AL-Go-Actions/v9.0/.Modules/se\r\nttings.schema.json",
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
+  "temp\r\nlateUrl": "https://github.com/microsoft/AL-Go\r\n-PTE@main",
   "doNotPublishApps": true,
-  "workspaceCompilation": { "enabled": true }
+  "wo\r\nrkspaceCompilation": {
+    "enabled": true
+  },
+  "vsixFile": "https://github.com/Aholstrup1-PersonalOrg/vsix-test/releases/download/vsix-test-v1/al-18.0.0-marketplace.vsix"
 }
