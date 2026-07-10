@@ -6,6 +6,6 @@
   "workspaceCompilation": {
     "enabled": true
   },
-  "vsixFile": "https://github.com/Aholstrup1-PersonalOrg/vsix-test/releases/download/vsix-test-v1/al-18.0.0-marketplace.vsix",
+  "vsixFile": "https://github.com/Aholstrup1-PersonalOrg/vsix-test/releases/download/vsix-test-v2/al-18.0.0-marketplace.vsix",
   "templateSha": "9025b8cbe92d4172c4b2e20dea92465283980c76"
 }
